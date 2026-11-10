@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "fisheries-aquaculture-software",
+  "description": "Fisheries & Aquaculture Software — Agriculture Laravel Filament ERP/SaaS for Bangladesh (Khulna). Aquaculture software for pond stocking, feed schedules, harvest lots, and buyer sales. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "agriculture",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/fisheries-aquaculture-software"
+}
